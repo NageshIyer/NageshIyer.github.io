@@ -1,0 +1,132 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: rgb(27,27,27);
+}
+
+#signature {
+	background-image: url('../img/signature.jpg');
+	height: 60vw;
+	width: 20vw;
+
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+#intro{
+	background-color: rgb(27,27,27);
+	height: 57vw;
+	margin-top: 3vw;
+	width: 70vw;
+	position: relative;
+}
+
+img {
+	filter: grayscale(100%);
+}
+
+span {
+	color: rgb(176,113,169);
+}
+
+ul {
+	list-style-type: none;
+	line-height: 1.5vw;
+}
+
+
+#subheading{
+	color: grey;
+	font-size: 1vw;
+}
+
+#experience {
+	background-color: rgb(34,34,34);
+}
+
+p{
+	color: white;
+	font-size: 1vw;
+}
+
+a{
+	color: grey;
+	font-size: 1vw;
+
+}
+
+#greyborderbox{
+	margin-top: 4vw;
+	padding: 5vw;
+	background-color: rgb(44,44,44);
+	border-radius: 1px;
+	border-color: rgb(142,142,142);
+	border-style: solid;
+}
+
+#more{
+	padding: 5vw;
+	background-color: rgb(34,34,34);
+}
+
+#transparentborderbox{
+	margin-top: 4vw;
+	padding: 1vw;
+	background-color: rgb(34,34,34);
+	border-radius: 1px;
+	border-color: rgb(142,142,142);
+	border-style: solid;
+}
+
+li{
+	color: white;
+}
+a:link{
+	text-decoration: none;
+}
+
+#about {
+	background-color: rgb(34,34,34);
+}
+
+h1{
+	color: white;
+}
+
+#bigheading{
+	font-size: 6vw;
+	color: white;
+}
+
+
+
+th{
+	color: rgb(178,178,178);
+
+}
+td{
+	color: white;
+
+	font-size: 3vw;
+}
+
+#contributions,#committees {
+	padding: 5vw;
+	background-color: rgb(34,34,34);
+}
+
+#education{
+	padding-left: 5vw;
+	padding-right: 5vw;
+	background-color: rgb(34,34,34);
+}
+
+
+#welcome{
+	color: white;
+	background-color: rgb(27,27,27);
+	padding: 3vw;
+	padding-bottom: 0px;
+}
